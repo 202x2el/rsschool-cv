@@ -13,6 +13,8 @@
 
 **Phone:** *****
 
+**Telegram:** *****
+
 ## Summary
 I like programming. It is fascinating and interesting. I have completed several training projects and now I would like to take part in the creation of a real project. My goal is to learn a pure JavaScript at a good level and learn the React and Angular libraries. I will be glad to join the creation of open source projects. I would like to work under the guidance of an experienced developer to gain practical experience.
 
